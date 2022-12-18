@@ -17,6 +17,5 @@
             exec("java Main ".$IIN, $output, $retval);
             echo $output[0];
         ?>
-        </p>
     </body>
 </html>
